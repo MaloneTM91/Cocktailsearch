@@ -8,6 +8,11 @@ export default function Error() {
         <Link to="/" className="btn btn-primary">
           back home
         </Link>
+        <h2>
+          this is a demonstration of a purposeful error page. this error will
+          appear every time the user navigates away from an established page.
+          now click the home button and find a tasty drink!
+        </h2>
       </div>
     </section>
   );
