@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cocktailsearch/static/css/main.274aee27.css",
+    "main.js": "/Cocktailsearch/static/js/main.407dc290.js",
+    "static/media/logo.svg": "/Cocktailsearch/static/media/logo.664876a8331894938d80e46d93b16ef2.svg",
+    "index.html": "/Cocktailsearch/index.html",
+    "main.274aee27.css.map": "/Cocktailsearch/static/css/main.274aee27.css.map",
+    "main.407dc290.js.map": "/Cocktailsearch/static/js/main.407dc290.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.274aee27.css",
+    "static/js/main.407dc290.js"
+  ]
+}
